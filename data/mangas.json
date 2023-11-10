@@ -1,22 +1,22 @@
 [
   {
     "title": "One Piece",
-    "img" : "./images/onepiecee.jpeg",
+    "img" : "https://zakdev.com/php_simple_api/images/onepiece.jpeg",
     "description" : "One Piece est une série de shōnen mangas créée par Eiichirō Oda. Elle est prépubliée depuis le 22 juillet 1997 dans le magazine hebdomadaire Weekly Shōnen Jump"
   },
   {
     "title": "Naruto",
-    "img" : "./images/naruto.webp",
+    "img" : "https://zakdev.com/php_simple_api/images/naruto.webp",
     "description" : "Naruto est un shōnen manga écrit et dessiné par Masashi Kishimoto. Naruto a été prépublié dans l'hebdomadaire Weekly Shōnen Jump de l'éditeur Shūeisha entre septembre 1999 et novembre 2014."
   },
   {
     "title": "Hunter x Hunter",
-    "img" : "./images/gon.webp",
+    "img" : "https://zakdev.com/php_simple_api/images/gon.webp",
     "description" : "Hunter × Hunter est une série japonaise de manga écrit et dessiné par Yoshihiro Togashi. Il est prépublié depuis mars 1998 dans l'hebdomadaire Weekly Shōnen Jump de l'éditeur Shūeisha, et est compilé en trente-sept tomes"
   },
   {
     "title": "Attaque on titan",
-    "img" : "./images/attack_on_titan.avif",
+    "img" : "https://zakdev.com/php_simple_api/images/attack_on_titan.avif",
     "description" : "L’Attaque des Titans, aussi connu sous le titre Attack on Titan, est un shōnen manga écrit et dessiné par Hajime Isayama."
   }
 
