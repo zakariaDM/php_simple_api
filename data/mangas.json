@@ -2,22 +2,22 @@
   {
     "title": "One Piece",
     "img" : "https://zakdev.com/php_simple_api/images/onepiece.jpeg",
-    "description" : "One Piece est une série de shōnen mangas créée par Eiichirō Oda. Elle est prépubliée depuis le 22 juillet 1997 dans le magazine hebdomadaire Weekly Shōnen Jump"
+    "description" : "One Piece is a shonen manga series created by Eiichiro Oda. It has been pre-published since July 22, 1997 in the weekly magazine Weekly Shōnen Jump"
   },
   {
     "title": "Naruto",
     "img" : "https://zakdev.com/php_simple_api/images/naruto.webp",
-    "description" : "Naruto est un shōnen manga écrit et dessiné par Masashi Kishimoto. Naruto a été prépublié dans l'hebdomadaire Weekly Shōnen Jump de l'éditeur Shūeisha entre septembre 1999 et novembre 2014."
+    "description" : "Naruto is a shōnen manga written and drawn by Masashi Kishimoto. Naruto was pre-published in Shueisha s Weekly Shonen Jump between September 1999 and November 2014."
   },
   {
     "title": "Hunter x Hunter",
     "img" : "https://zakdev.com/php_simple_api/images/gon.webp",
-    "description" : "Hunter × Hunter est une série japonaise de manga écrit et dessiné par Yoshihiro Togashi. Il est prépublié depuis mars 1998 dans l'hebdomadaire Weekly Shōnen Jump de l'éditeur Shūeisha, et est compilé en trente-sept tomes"
+    "description" : "Hunter × Hunter is a Japanese manga series written and drawn by Yoshihiro Togashi. It has been pre-published since March 1998 in the weekly Shōnen Jump from the publisher Shueisha, and is compiled into thirty-seven volumes"
   },
   {
     "title": "Attaque on titan",
-    "img" : "https://zakdev.com/php_simple_api/images/attack_on_titan.avif",
-    "description" : "L’Attaque des Titans, aussi connu sous le titre Attack on Titan, est un shōnen manga écrit et dessiné par Hajime Isayama."
+    "img" : "https://zakdev.com/php_simple_api/images/attack_on_titan.jpeg",
+    "description" : "Attack on Titan, also known as Attack on Titan, is a shonen manga written and drawn by Hajime Isayama."
   }
 
 ]
