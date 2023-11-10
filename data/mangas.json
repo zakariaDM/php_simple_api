@@ -1,4 +1,23 @@
-{
-  "title": "One Piece",
-  "" : ""
-}
+[
+  {
+    "title": "One Piece",
+    "img" : "./images/onepiecee.jpeg",
+    "description" : ""
+  },
+  {
+    "title": "Naruto",
+    "img" : "./images/naruto.webp",
+    "description" : ""
+  },
+  {
+    "title": "Hunter x Hunter",
+    "img" : "./images/gon.webp",
+    "description" : ""
+  },
+  {
+    "title": "Attaque on titan",
+    "img" : "./images/attack_on_titan.avif",
+    "description" : ""
+  }
+
+]
