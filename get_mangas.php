@@ -1,5 +1,4 @@
 <?php
-
 header('Content-Type: application/json'); // Mon WS va Exposer du JSON
 //modifie pour essai de git/gitlab
 if (strtoupper($_SERVER['REQUEST_METHOD']) != 'GET') { // N'accepter que le verbe POST
